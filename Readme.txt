@@ -1,1 +1,0 @@
-Csomagold ki, lépj be a könyvtárba, és add ki ezt a parancsot--> python PebblesAdventures.py  
